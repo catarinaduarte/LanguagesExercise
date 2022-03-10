@@ -1,0 +1,12 @@
+C:\Users\35196\source\repos\Tarefaidiomas\Tarefaidiomas\bin\Debug\Tarefaidiomas.exe.config
+C:\Users\35196\source\repos\Tarefaidiomas\Tarefaidiomas\bin\Debug\Tarefaidiomas.exe
+C:\Users\35196\source\repos\Tarefaidiomas\Tarefaidiomas\bin\Debug\Tarefaidiomas.pdb
+C:\Users\35196\source\repos\Tarefaidiomas\Tarefaidiomas\bin\Debug\Tarefaidiomas.xml
+C:\Users\35196\source\repos\Tarefaidiomas\Tarefaidiomas\obj\Debug\Tarefaidiomas.vbproj.AssemblyReference.cache
+C:\Users\35196\source\repos\Tarefaidiomas\Tarefaidiomas\obj\Debug\Tarefaidiomas.Form1.resources
+C:\Users\35196\source\repos\Tarefaidiomas\Tarefaidiomas\obj\Debug\Tarefaidiomas.Resources.resources
+C:\Users\35196\source\repos\Tarefaidiomas\Tarefaidiomas\obj\Debug\Tarefaidiomas.vbproj.GenerateResource.cache
+C:\Users\35196\source\repos\Tarefaidiomas\Tarefaidiomas\obj\Debug\Tarefaidiomas.vbproj.CoreCompileInputs.cache
+C:\Users\35196\source\repos\Tarefaidiomas\Tarefaidiomas\obj\Debug\Tarefaidiomas.exe
+C:\Users\35196\source\repos\Tarefaidiomas\Tarefaidiomas\obj\Debug\Tarefaidiomas.xml
+C:\Users\35196\source\repos\Tarefaidiomas\Tarefaidiomas\obj\Debug\Tarefaidiomas.pdb
